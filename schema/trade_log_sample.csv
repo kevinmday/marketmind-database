@@ -1,0 +1,4 @@
+date,ticker,entry_price,exit_price,fils_at_entry,ttcf_at_entry,drift,ucip,psi_quanta
+2025-07-01,PLTR,25.91,28.14,82,0.11,0.034,0.26,0.92
+2025-07-02,AUID,6.12,6.81,78,0.08,0.029,0.19,0.85
+2025-07-03,VERI,3.91,4.52,81,0.09,0.038,0.21,0.88

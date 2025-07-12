@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AssetTraits",
+  "type": "object",
+  "properties": {
+    "ticker": { "type": "string" },
+    "fils_volatility": { "type": "number" },
+    "ttcf_resilience": { "type": "number" },
+    "drift_decay_rate": { "type": "number" },
+    "ucip_echo_index": { "type": "number" },
+    "intent_alignment_lag": { "type": "number" },
+    "quant_conflict_ratio": { "type": "number" },
+    "signal_synchrony_score": { "type": "number" },
+    "fractal_sensitivity_level": { "type": "number" }
+  },
+  "required": ["ticker"]
+}
