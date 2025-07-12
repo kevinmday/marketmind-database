@@ -1,0 +1,7 @@
+﻿# Ignore raw data, secrets, and logs
+/data/
+/logs/
+/.env
+*.sqlite
+*.db
+*.bak
